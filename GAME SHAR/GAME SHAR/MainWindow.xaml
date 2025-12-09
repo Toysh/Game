@@ -1,0 +1,21 @@
+﻿<Window x:Class="GAME_SHAR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Закрась звезду!" 
+        Width="800" 
+        Height="600"
+        MouseMove="Window_MouseMove"
+        Background="#333">
+    <!-- Темный фон для контраста -->
+    <Grid>
+        <Canvas x:Name="CanvasTrail"
+                Background="Transparent"
+                Width="800"
+                Height="600"/>
+
+        <Canvas x:Name="CanvasBall"
+                Background="Transparent"
+                Width="800"
+                Height="600"/>
+    </Grid>
+</Window>

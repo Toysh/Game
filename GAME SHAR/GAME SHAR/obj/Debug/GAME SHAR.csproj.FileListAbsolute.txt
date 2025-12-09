@@ -1,0 +1,14 @@
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.csproj.AssemblyReference.cache
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\MainWindow.baml
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\MainWindow.g.cs
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\App.g.cs
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR_MarkupCompile.cache
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.g.resources
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME_SHAR.Properties.Resources.resources
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.csproj.GenerateResource.cache
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.csproj.CoreCompileInputs.cache
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\bin\Debug\GAME SHAR.exe.config
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\bin\Debug\GAME SHAR.exe
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\bin\Debug\GAME SHAR.pdb
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.exe
+C:\Users\Toyshan\source\repos\GAME SHAR\GAME SHAR\obj\Debug\GAME SHAR.pdb
